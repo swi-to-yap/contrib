@@ -1,0 +1,39 @@
+[submodule "contrib/clib"]
+	path = contrib/clib
+	url = https://github.com/swi-to-yap/packages-clib
+[submodule "contrib/plunit"]
+	path = contrib/plunit
+	url = https://github.com/swi-to-yap/packages-plunit
+[submodule "contrib/sgml"]
+	path = contrib/sgml
+	url = https://github.com/swi-to-yap/packages-sgml
+[submodule "contrib/http"]
+	path = contrib/http
+	url = https://github.com/swi-to-yap/packages-http
+[submodule "contrib/RDF"]
+	path = contrib/RDF
+	url = https://github.com/swi-to-yap/packages-RDF
+[submodule "contrib/zlib"]
+	path = contrib/zlib
+	url = https://github.com/swi-to-yap/packages-zlib
+[submodule "contrib/pldoc"]
+	path = contrib/pldoc
+	url = https://github.com/swi-to-yap/packages-pldoc
+[submodule "contrib/pengines"]
+	path = contrib/pengines
+	url = https://github.com/swi-to-yap/packages-pengines
+[submodule "contrib/swish"]
+	path = contrib/swish
+	url = https://github.com/swi-to-yap/swish
+[submodule "contrib/ClioPatria"]
+	path = contrib/ClioPatria
+	url = https://github.com/swi-to-yap/ClioPatria
+[submodule "contrib/semweb"]
+	path = contrib/semweb
+	url = https://github.com/swi-to-yap/packages-semweb
+[submodule "contrib/swicli"]
+	path = contrib/swicli
+	url = https://github.com/swi-to-yap/swicli
+[submodule "contrib/ssl"]
+	path = contrib/ssl
+	url = https://github.com/swi-to-yap/packages-ssl
