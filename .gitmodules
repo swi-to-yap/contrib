@@ -1,39 +1,36 @@
 [submodule "contrib/clib"]
-	path = contrib/clib
+	path = clib
 	url = https://github.com/swi-to-yap/packages-clib
 [submodule "contrib/plunit"]
-	path = contrib/plunit
+	path = plunit
 	url = https://github.com/swi-to-yap/packages-plunit
 [submodule "contrib/sgml"]
-	path = contrib/sgml
+	path = sgml
 	url = https://github.com/swi-to-yap/packages-sgml
 [submodule "contrib/http"]
-	path = contrib/http
+	path = http
 	url = https://github.com/swi-to-yap/packages-http
 [submodule "contrib/RDF"]
-	path = contrib/RDF
+	path = RDF
 	url = https://github.com/swi-to-yap/packages-RDF
 [submodule "contrib/zlib"]
-	path = contrib/zlib
+	path = zlib
 	url = https://github.com/swi-to-yap/packages-zlib
 [submodule "contrib/pldoc"]
-	path = contrib/pldoc
+	path = pldoc
 	url = https://github.com/swi-to-yap/packages-pldoc
 [submodule "contrib/pengines"]
-	path = contrib/pengines
+	path = pengines
 	url = https://github.com/swi-to-yap/packages-pengines
 [submodule "contrib/swish"]
-	path = contrib/swish
+	path = swish
 	url = https://github.com/swi-to-yap/swish
 [submodule "contrib/ClioPatria"]
-	path = contrib/ClioPatria
+	path = ClioPatria
 	url = https://github.com/swi-to-yap/ClioPatria
 [submodule "contrib/semweb"]
-	path = contrib/semweb
+	path = semweb
 	url = https://github.com/swi-to-yap/packages-semweb
-[submodule "contrib/swicli"]
-	path = contrib/swicli
-	url = https://github.com/swi-to-yap/swicli
 [submodule "contrib/ssl"]
-	path = contrib/ssl
+	path = ssl
 	url = https://github.com/swi-to-yap/packages-ssl
